@@ -4,19 +4,19 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #cecdcd;
 }
 .container {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background: #fff;
+    background: #faf2f2;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 h1,
 h2 {
-    color: #007bff;
+    color: #0b3c70;
 }
 .header {
     text-align: center;
@@ -29,7 +29,7 @@ h2 {
     font-size: 14px;
 }
 .contact a {
-    color: #007bff;
+    color: #7098c3;
     text-decoration: none;
 }
 .section {
@@ -37,7 +37,7 @@ h2 {
 }
 .section h2 {
     margin-bottom: 10px;
-    border-bottom: 2px solid #007bff;
+    border-bottom: 2px solid #8bb9eb;
     padding-bottom: 5px;
 }
 .item {
@@ -58,7 +58,7 @@ h2 {
 }
 .skills ul li {
     display: inline-block;
-    background: #007bff;
+    background: #0d427b;
     color: #fff;
     padding: 5px 10px;
     margin: 5px 5px 5px 0;
