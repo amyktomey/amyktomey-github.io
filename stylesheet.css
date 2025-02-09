@@ -30,7 +30,8 @@ h2 {
 }
 .contact a {
     color: #7098c3;
-    text-decoration: none;
+    text-decoration-line: underline;
+    font-weight: bold;
 }
 .section {
     margin: 20px 0;
